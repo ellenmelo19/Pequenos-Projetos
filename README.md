@@ -7,6 +7,7 @@ Cada pasta é um projeto diferente e portanto deve ser analisado de forma indivi
 ## Conteúdos Estudados para a realização dos projetos:
 
 *Fundamentos
+
 *Estruturas de Controle
 
 *Classes e Métodos
