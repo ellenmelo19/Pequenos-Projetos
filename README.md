@@ -1,6 +1,6 @@
 # Pequenos-Projetos
 Este é um espaço onde reúno pequenos projetos que criei utilizando o Eclipse IDE for JAVA Developers.
-São aprendizados que testam a lógica matemática e a lógica de programação e agregaram muito ao meu conhecimento.
+São aprendizados que testam a lógica matemática e a lógica de programação que agregaram muito ao meu conhecimento.
 
 Cada pasta é um projeto diferente e portanto deve ser analisado de forma individual!
 
